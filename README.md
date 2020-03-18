@@ -1,2 +1,2 @@
 # OS_Lab
-Some of Code done in OS Lab
+Some of the Code done in OS Lab of 6th Sem of Computer Science Engineering
